@@ -1,0 +1,213 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+}
+
+#section-title {
+  padding: 2.5% 15% 7%;
+}
+
+#title {
+  background-color: #2F8F9D;
+  text-align: center;
+}
+
+  .navbar-brand {
+    font-family: "Convergence";
+    font-size: 3rem;
+    font-weight: bold;
+  }
+
+  .to-the-power-of {
+    font-size: 2rem;
+  }
+
+  .nav-item {
+    font-family: 'Montserrat', sans-serif;
+    padding: 0 10px;
+    font-size: 1rem;
+    font-weight: bold;
+    color: white;
+  }
+
+  .my-name {
+    text-align: center;
+  }
+
+  .big-heading {
+    font-family: 'Sacramento', cursive;
+    color: white;
+    font-size: 5rem;
+    padding: 5% 5% 2% 5%;
+  }
+
+/* Media Styling */
+
+  /* @media (max-width: 1024px) {
+    #section-title {
+      background-color: #E8630A;
+    }
+    .big-heading {
+    font-family: 'Sacramento', cursive;
+    color: white;
+    font-size: 5rem;
+  } */
+
+
+
+  .download-button {
+    margin: 5% 3% 5% 3%;
+    /* width: 5%; */
+  }
+
+  .title-icon-div {
+    text-align: center;
+  }
+
+  .title-icon {
+    font-size: 1.6rem;
+    padding: 1% 0 0 0;
+    text-align: center;
+    /* margin: auto 2% auto 2%; */
+    /* text-align: center; */
+  }
+
+  #topics {
+    padding: 7% 15% 7%;
+    background-color: #fff;
+  }
+
+  .topics-icon {
+    font-size: 6rem;
+    margin-bottom: 3%;
+    color: #2F8F9D;
+  }
+
+  .topics-icon:hover {
+    color: #E8630A;
+  }
+
+  .topics-box {
+    padding: 4%;
+  }
+
+  h2 {
+    font-family: "Montserrat" sans-serif;
+    font-weight: 600;
+  }
+
+  p {
+    color: #8f8f8f;
+  }
+
+  #tips {
+    background-color: #2F8F9D;
+    padding: 0 20% 5%;
+    color: #fff;
+    /* margin: auto; */
+  }
+
+  .pro-tip-header {
+    font-size: 3rem;
+    /* margin-bottom: 5%; */
+    padding: 2% 0 5% 0;
+  }
+
+  .tips-text {
+    font-size: 2rem;
+  }
+
+  .tips-img {
+    width: 25%;
+    border-radius: 50%;
+    margin: 3%;
+  }
+
+  #pricing {
+    padding: 100px;
+  }
+
+  .price-text {
+    font-size: 3rem;
+    line-height: 1.5;
+  }
+
+  .pricing-column {
+    padding: 3% 2%;
+  }
+
+  #download-app {
+    background-color: #2F8F9D;
+    color: #fff;
+    padding: 75px 0 10px 0;
+    margin-bottom: 50px;
+  }
+
+  .app-heading {
+    color: #fff;
+    font-family: "Montserrat" sans-serif;
+    font-weight: 600;
+    font-size: 3rem;
+    line-height: 1.5;
+    margin-bottom: 25px;
+    padding: 0 30%;
+  }
+
+  #footer {
+    /* padding: 1% 30%; */
+  }
+
+  .footer-colors {
+    padding: 1% 15%;
+    /* margin-left: 10%; */
+    /* text-align: center; */
+  }
+
+  .footer-color1 {
+    height: 75px;
+    width: 75px;
+    background-color: #E64848;
+    border-radius: 50%;
+    margin: 0 5% 0 25%;
+    /* position: absolute; */
+  }
+
+  .footer-color2 {
+    height: 75px;
+    width: 75px;
+    background-color: #FFF38C;
+    border-radius: 50%;
+    margin-right: 5%;
+    /* position: absolute; */
+  }
+
+  .footer-color3 {
+    height: 75px;
+    width: 75px;
+    background-color: #7FB77E;
+    border-radius: 50%;
+    margin-right: 5%;
+    /* position: absolute; */
+  }
+
+  .footer-color4 {
+    height: 75px;
+    width: 75px;
+    background-color: #47B5FF;
+    border-radius: 50%;
+    margin-right: 5%;
+    /* position: absolute; */
+  }
+
+  .footer-color5 {
+    height: 75px;
+    width: 75px;
+    background-color: #D47AE8;
+    border-radius: 50%;
+    /* margin-right: 10%; */
+    /* position: absolute; */
+  }
+
+  .footer-para {
+    margin-top: 2%;
+  }
